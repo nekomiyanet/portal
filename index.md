@@ -8,6 +8,8 @@
 
 [Terms Of Service](/tos/index.md)
 
+[Privacy Policy](/privacy/index.md)
+
 [Status page (status.nekomiya.net)](https://status.nekomiya.net)
 
 [Portal repo (nekomiyanet/portal)](https://github.com/nekomiyanet/portal)
