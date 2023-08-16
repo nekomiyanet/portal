@@ -25,6 +25,8 @@ Nekomiyasky can not comply with the GDPR and is therefore not accepting user reg
 
 ・ねこみやの許可とってない宣伝ダメ
 
+・使い捨てメアド禁止(m.kuku.lu等)
+
 ## 通報について
 むやみやたらに通報すると、アカウントが凍結される可能性があります。
 通報は1人のユーザーが一回通報するだけで大丈夫です、大勢で通報されるとかえってモデレーションしにくくなります。
@@ -66,6 +68,8 @@ Nekomiyasky can not comply with the GDPR and is therefore not accepting user reg
 
 ※管理者はユーザーの許可なく利用規約を変更することができます。
 ※利用規約は都合によりお知らせなく変更することがあります。
+
+2023/08/17 2:00(YAKT) 更新
 
 ---
 
