@@ -1,5 +1,3 @@
-# <fff>🐾Nekomiya-net🐾</fff>Portal (Alpha)
-
 [Misskey repo (nekomiyanet/misskey-v12)](https://github.com/nekomiyanet/misskey-v12)
 
 [Nekomiyaskey (nekomiya.net)](https://nekomiya.net)
