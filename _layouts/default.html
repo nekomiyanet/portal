@@ -40,10 +40,26 @@
         </span>
       </header>
 
+      {% if site.show_downloads %}
+        <section id="downloads">
+          <span class="inner">
+            <a href="{{ site.github.zip_url }}" class="zip"><em>download</em> .ZIP</a><a href="{{ site.github.tar_url }}" class="tgz"><em>download</em> .TGZ</a>
+          </span>
+        </section>
+      {% else %}
+        <div id="no-downloads">
+          <span class="inner">
+          </span>
+        </div>
+      {% endif %}
+
+
+      <span class="banner-fix"></span>
+
       <div class="lang lang_fixed">
         <div id="ytWidget" style="display: none;"></div>
         <div class="lang__link lang__link_select" data-lang-active>
-            <img class="lang__img lang__img_select" src="./assets/yatranslate/lang/lang__ru.png" alt="Ru">
+            <img class="lang__img lang__img_select" src="./assets/yatranslate/lang/lang__ja.png" alt="Ja">
         </div>
         <div class="lang__list" data-lang-list>
             <a class="lang__link lang__link_sub" data-ya-lang="ru">
@@ -63,23 +79,6 @@
             </a>
         </div>
     </div>
-
-      {% if site.show_downloads %}
-        <section id="downloads">
-          <span class="inner">
-            <a href="{{ site.github.zip_url }}" class="zip"><em>download</em> .ZIP</a><a href="{{ site.github.tar_url }}" class="tgz"><em>download</em> .TGZ</a>
-          </span>
-        </section>
-      {% else %}
-        <div id="no-downloads">
-          <span class="inner">
-          </span>
-        </div>
-      {% endif %}
-
-
-      <span class="banner-fix"></span>
-
 
       <section id="main_content">
         {{ content }}
