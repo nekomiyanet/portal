@@ -1,3 +1,29 @@
+<script src="./js/yatranslate.js"></script>
+<link rel="stylesheet" href="./css/yatranslate.css">
+<div class="lang lang_fixed">
+            <div id="ytWidget" style="display: none;"></div>
+            <div class="lang__link lang__link_select" data-lang-active>
+                <img class="lang__img lang__img_select" src="./assets/yatranslate/lang/lang__ru.png" alt="Ru">
+            </div>
+            <div class="lang__list" data-lang-list>
+                <a class="lang__link lang__link_sub" data-ya-lang="ru">
+                    <img class="lang__img" src="./assets/yatranslate/lang/lang__ru.png" alt="ru">
+                </a>
+                <a class="lang__link lang__link_sub" data-ya-lang="en">
+                    <img class="lang__img" src="./assets/yatranslate/lang/lang__en.png" alt="en">
+                </a>
+                <a class="lang__link lang__link_sub" data-ya-lang="de">
+                    <img class="lang__img" src="./assets/yatranslate/lang/lang__de.png" alt="de">
+                </a>
+                <a class="lang__link lang__link_sub" data-ya-lang="zh">
+                    <img class="lang__img" src="./assets/yatranslate/lang/lang__zh.png" alt="zh">
+                </a>
+                <a class="lang__link lang__link_sub" data-ya-lang="fr">
+                    <img class="lang__img" src="./assets/yatranslate/lang/lang__fr.png" alt="fr">
+                </a>
+            </div>
+        </div>
+        
 [Misskey repo (nekomiyanet/misskey-v12)](https://github.com/nekomiyanet/misskey-v12)
 
 [Nekomiyaskey (nekomiya.net)](https://nekomiya.net)
@@ -15,8 +41,10 @@
 現在ねこみやすきーコントリビューター募集中です！
 詳しくは[morotesovtannu(@ruri_e@nekomiya.net)](https://nekomiya.net/@ruri_e)まで！
 
-このサイトのコンテンツは クリエイティブ・コモンズ 表示 - 非営利 - 継承 4.0 国際 ライセンスの下に提供されています。
+このサイトのコンテンツは、一部を除きクリエイティブ・コモンズ 表示 - 非営利 - 継承 4.0 国際 ライセンスの下に提供されています。
 
 ![CC BY-NC-SA 4.0](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)
+
+[Yandex Translate Custom Widget](https://github.com/get-web/yandex-translate-custom-widget)はMITライセンスのもとに提供されています。
 
 2023 <fff>Nekomiya.net<fff>
