@@ -12,6 +12,8 @@
 
 [Portal repo (nekomiyanet/portal)](https://github.com/nekomiyanet/portal)
 
+[Discord Community](/link/discord/index.md)
+
 現在ねこみやすきーコントリビューター募集中です！
 詳しくは[morotesovtannu](https://github.com/morotesovtannu)まで！
 
