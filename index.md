@@ -23,7 +23,7 @@
 
 [Yandex Translate Custom Widget](https://github.com/get-web/yandex-translate-custom-widget)はMITライセンスの下に提供されています。
 
-[Merlot](https://github.com/pages-themes/merlot)はCC0ライセンスの下に提供されています。
+[Cayman](https://github.com/pages-themes/cayman)はCC0ライセンスの下に提供されています。
 
 [Public Domain Flag](https://github.com/emcrisostomo/flags)はPublic Domainの下に提供されています。(flag__jp.png)
 
