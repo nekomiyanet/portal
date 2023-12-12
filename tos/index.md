@@ -29,6 +29,8 @@ Nekomiyasky can not comply with the GDPR and is therefore not accepting user reg
 
 ・利用規約に反する投稿の拡散だめ
 
+・他インスタンスをメインに使用しちゃだめ
+
 ## 通報について
 むやみやたらに通報すると、アカウントが凍結される可能性があります。
 通報は1人のユーザーが一回通報するだけで大丈夫です、大勢で通報されるとかえってモデレーションしにくくなります。
