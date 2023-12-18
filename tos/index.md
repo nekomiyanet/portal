@@ -9,8 +9,6 @@ Nekomiyasky can not comply with the GDPR and is therefore not accepting user reg
 
 ・日本の法律を守って！
 
-・ねこみやをフォロー
-
 ・ねこみやを愛す
 
 ・ねこみやに逆らわない
