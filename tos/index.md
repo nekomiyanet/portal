@@ -71,7 +71,7 @@ Nekomiyasky can not comply with the GDPR and is therefore not accepting user reg
 ※管理者はユーザーの許可なく利用規約を変更することができます。
 ※利用規約は都合によりお知らせなく変更することがあります。
 
-2023/08/25 13:50(YAKT) 更新
+2023/12/18 23:09(YAKT) 更新
 
 ---
 
