@@ -1,3 +1,8 @@
+☆☆☆☆ねこみやねっと ポータルへようこそ☆☆☆☆
+
+あくせすかうんたー↓
+<img src="http://www.kcv.ne.jp/cgi-bin/counter/counter_img.php?user=kasatana&hash=c0a4122bb8815b986d70e41312b4a11e&f=01">
+
 [Misskey repo (nekomiyanet/misskey-v12)](https://github.com/nekomiyanet/misskey-v12)
 
 [Nekomiyaskey (nekomiya.net)](https://nekomiya.net)
