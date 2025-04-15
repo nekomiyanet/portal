@@ -33,4 +33,4 @@
 
 [Public Domain Flag](https://github.com/emcrisostomo/flags)はPublic Domainの下に提供されています。(flag__jp.png)
 
-2023-2024 <fff>Nekomiya.net<fff>
+2023-2025 <fff>Nekomiya.net<fff>
