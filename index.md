@@ -1,8 +1,6 @@
-☆☆☆☆ねこみやねっと ポータルへようこそ☆☆☆☆
+「ねこみやすきー」はサービスを終了いたします。長年にわたるご愛顧、誠にありがとうございました。
 
-あくせすかうんたー↓
-
-<img src="https://www.kcv.ne.jp/cgi-bin/counter/counter_img.php?user=kasatana&hash=c0a4122bb8815b986d70e41312b4a11e&f=01">
+以下はアーカイブ(2026/07)
 
 [Misskey repo (nekomiyanet/misskey-v12)](https://github.com/nekomiyanet/misskey-v12)
 
